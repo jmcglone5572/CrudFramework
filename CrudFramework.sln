@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFramework.Contracts", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "CrudFramework.ConsoleApp\ConsoleApp.csproj", "{C3A04E04-BEEA-4A9A-AA2F-733941476617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFramework.DecoratorClasses", "CrudFramework.ClassImplementations\CrudFramework.DecoratorClasses.csproj", "{835EF7A7-F43E-4834-BB1A-E4E461BA4CDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFramework.DecoratorClasses", "CrudFramework.Decorators\CrudFramework.DecoratorClasses.csproj", "{835EF7A7-F43E-4834-BB1A-E4E461BA4CDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

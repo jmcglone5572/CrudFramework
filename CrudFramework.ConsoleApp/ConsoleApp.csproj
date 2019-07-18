@@ -55,13 +55,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CrudFramework.ClassImplementations\CrudFramework.DecoratorClasses.csproj">
-      <Project>{835ef7a7-f43e-4834-bb1a-e4e461ba4cdd}</Project>
-      <Name>CrudFramework.DecoratorClasses</Name>
-    </ProjectReference>
     <ProjectReference Include="..\CrudFramework.Contracts\CrudFramework.Contracts.csproj">
       <Project>{49376aaf-80c9-4c8e-96cd-6dd9b06f1e02}</Project>
       <Name>CrudFramework.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CrudFramework.Decorators\CrudFramework.DecoratorClasses.csproj">
+      <Project>{835ef7a7-f43e-4834-bb1a-e4e461ba4cdd}</Project>
+      <Name>CrudFramework.DecoratorClasses</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
