@@ -1,7 +1,0 @@
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\bin\Debug\CrudFramework.ClassImplementations.dll
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\bin\Debug\CrudFramework.ClassImplementations.pdb
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\bin\Debug\CrudFramework.Contracts.dll
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\bin\Debug\CrudFramework.Contracts.pdb
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\obj\Debug\CrudFramework.ClassImplementations.csprojResolveAssemblyReference.cache
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\obj\Debug\CrudFramework.ClassImplementations.dll
-D:\zMisc\CrudFramework\CrudFramework.ClassImplementations\obj\Debug\CrudFramework.ClassImplementations.pdb

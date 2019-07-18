@@ -1,4 +1,0 @@
-D:\zMisc\CrudFramework\CrudFramework.Contracts\bin\Debug\CrudFramework.Contracts.dll
-D:\zMisc\CrudFramework\CrudFramework.Contracts\bin\Debug\CrudFramework.Contracts.pdb
-D:\zMisc\CrudFramework\CrudFramework.Contracts\obj\Debug\CrudFramework.Contracts.dll
-D:\zMisc\CrudFramework\CrudFramework.Contracts\obj\Debug\CrudFramework.Contracts.pdb
